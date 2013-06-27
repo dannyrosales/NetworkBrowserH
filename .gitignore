@@ -1,0 +1,35 @@
+#my ignore file
+
+#Visual Studio files
+*.[Oo]bj
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+*.suo
+*.bak
+*.[Cc]ache
+*.obj/
+*.7z
+*.zip
+*.user
+*.log
+*.lib
+
+#Visual Studio - Class Diagrams
+*.cd
+
+#Nuget
+packages/
+
+#Testfiles
+*.testsettings
+
+#Project files
+[Bb]uild/
+
+#Images
+*.png
+*.gif
+*.jpg
+
+
