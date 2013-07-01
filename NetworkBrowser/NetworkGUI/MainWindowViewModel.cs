@@ -177,8 +177,8 @@ namespace NetworkGUI
             //
             node.Connectors.Add(new ConnectorViewModel());
             node.Connectors.Add(new ConnectorViewModel());
-            node.Connectors.Add(new ConnectorViewModel());
-            node.Connectors.Add(new ConnectorViewModel());
+            //node.Connectors.Add(new ConnectorViewModel());
+            //node.Connectors.Add(new ConnectorViewModel());
 
             //
             // Add the new node to the view-model.
