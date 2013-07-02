@@ -1,0 +1,4 @@
+this application is meant to be a windows .net executable that will scan Active Directory
+for computers and display them visually on the screen. I couldn't figure out how to
+wrap a DirectoryEntry and put some visual skin on it, so right now, all the app does, 
+is visualise a list of computer name strings
